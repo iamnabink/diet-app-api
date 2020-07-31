@@ -4,7 +4,7 @@
 
 create virtual environment for project - 'virtualenv -p python3 .'
 
-install django project - 'pip install django'
+install django project - 'pip install django' (installing django is like installing composer)
 
 install pre-installed django project files - 'django-admin startproject projectname'
 
